@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+  send-email-bot:
+    build: '.'
+    restart: always
+    container_name: "send-email-bot"
+    env_file:
+      - .env
