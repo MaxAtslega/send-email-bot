@@ -6,8 +6,8 @@
   "devDependencies": {
     "@types/node-cron": "2.0.4",
     "@types/nodemailer": "6.4.4",
-    "@typescript-eslint/eslint-plugin": "5.0.0",
-    "@typescript-eslint/parser": "5.0.0",
+    "@typescript-eslint/eslint-plugin": "5.4.0",
+    "@typescript-eslint/parser": "5.4.0",
     "eslint": "7.32.0",
     "nodemon": "2.0.12",
     "ts-node": "10.2.0",
