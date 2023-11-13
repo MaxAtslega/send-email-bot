@@ -4,7 +4,7 @@
   "description": "A simple bot that automatically sends an email at a time",
   "main": "dist/index.js",
   "devDependencies": {
-    "@types/node-cron": "3.0.0",
+    "@types/node-cron": "3.0.11",
     "@types/nodemailer": "6.4.4",
     "@typescript-eslint/eslint-plugin": "5.4.0",
     "@typescript-eslint/parser": "5.4.0",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "dotenv": "10.0.0",
-    "node-cron": "3.0.0",
+    "node-cron": "3.0.3",
     "nodemailer": "6.7.2"
   },
   "scripts": {
